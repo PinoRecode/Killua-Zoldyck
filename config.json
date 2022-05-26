@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "BagasPrdn"
   },
   "options": {
     "autoRead": true,
@@ -15,12 +15,12 @@
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "BOT",
+    "author": "WA"
   },
   "owner": [
     "62812xxx"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by https://pinorecode.github.io/portofolio/"
 }
