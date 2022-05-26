@@ -12,14 +12,14 @@
   },
   "sessionName": {
     "legacy": "/database/killua-legacy.json",
-    "multi": "/database/killua-multi.json"
+    "multi": "/killua-multi.json"
   },
   "exif": {
     "packname": "BOT",
     "author": "WA"
   },
   "owner": [
-    "62812xxx"
+    "628895377665"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://pinorecode.github.io/portofolio/"
