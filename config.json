@@ -4,7 +4,7 @@
     "apikey": "YOURAPIKEY"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "mute": false,
     "limitCount": 20,
@@ -15,12 +15,12 @@
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "BOT WA",
+    "author": "08895377665"
   },
   "owner": [
-    "62812xxx"
+    "8895377665"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by https://pinorecode.github.io/portofolio/"
 }
